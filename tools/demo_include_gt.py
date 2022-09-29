@@ -150,4 +150,5 @@ if __name__ == '__main__':
     rclpy.init() # 添加
     main()
     rclpy.shutdown()
+    # This is a test for git commit
 
